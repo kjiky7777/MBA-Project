@@ -1,0 +1,34 @@
+id,tcode,fred,description,gsi,gsi:description,group
+1,5,RPI,Real Personal Income,M_14386177,PI,1
+6,5,INDPRO,IP Index,M_116460980,IP: total,1
+20,2,CUMFNS,Capacity Utilization:  Manufacturing,M_116461602,Cap util,1
+21,2,HWI,Help-Wanted Index for United States,,Help wanted indx,2
+23,5,CLF16OV,Civilian Labor Force Level,M_110156467,Emp CPS total,2
+26,2,UEMPMEAN,Average Weeks Unemployed,M_110156528,U: mean duration,2
+32,5,CLAIMSx,Initial Claims,M_15186204,UI claims,2
+35,5,CES1021000001,All Employees:  Mining,M_123109244,Emp:  mining,2
+36,5,USCONS,All Employees:  Construction,M_123109331,Emp:  const,2
+37,5,MANEMP,All Employees:  Manufacturing,M_123109542,Emp:  mfg,2
+43,5,USTRADE,All Employees: Retail Trade,M_123111867,Emp:  retail,2
+44,5,USFIRE,All Employees: Financial Activities,M_123112777,Emp:  FIRE,2
+45,5,USGOVT,All Employees: Government,M_123114411,Emp:  Govt,2
+47,2,AWOTMAN,"Average Weekly Overtime Hours : Nonsuperv, Manufacturing",M_123109554,Overtime:  mfg,2
+48,1,AWHMAN,"Average Weekly Hours : Nonsuperv, Manufacturing",M_14386098,Avg hrs:  mfg,2
+127,6,CES0600000008,Avg Hourly Earnings :  Goods-Producing,M_123109182,AHE: goods,2
+50,4,HOUST,Housing Starts:  Total New Privately Owned,M_110155536,Starts:  nonfarm,3
+5,5,RETAILx,Retail and Food Services Sales,M_130439509,Retail sales,4
+64,5,ACOGNO,Manufacturers` New Orders : Consumer Goods,M_14385863,Orders:  cons gds,4
+130,2,UMCSENTx,Consumer Sentiment Index,hhsntn,Consumer expect,4
+71,6,M2SL,M2,M_110154985,M2,5
+77,6,REALLN,"Real Estate Loans, All Commercial Banks",BUSLOANS,DC&I loans,5
+133,6,DTCTHFNM,Total Consumer Loans and Leases by Finance Companies,N.A.,N.A.,5
+86,2,TB3MS,3-Month Treasury Bill Secondary Market Rate,M_110155165,3 mo T-bill,6
+90,2,GS10,Market Yield on US Treasury Securities 10-Years Constant Maturity,M_110155169,10 yr T-bond,6
+91,2,AAA,Moody Seasoned Aaa Corporate Bond Yield,,Aaa bond,6
+101,5,TWEXAFEGSMTHx,Nominal Advanced Foreign Economies U.S. Dollar Index,,Ex rate: avg,6
+106,6,WPSFD49207,Producer Price Index : Final Demand : Finished Goods,M110157517,PPI: fin gds,7
+110,6,OILPRICEx,"Crude Oil, spliced WTI and Cushing",M_110157273,Spot market price,7
+135,1,VIXCLSx,VIX,,,8
+,,Positive,,,,
+,,Negative,,,,
+,,Neutral,,,,

@@ -1,0 +1,47 @@
+[Logistic Regression]
+
+Accuracy :  0.5333333333333333
+Precision :  0.6363636363636364
+Recall :  0.7
+TPR :  0.875
+FPR :  0.25
+roc auc value 0.44999999999999996
+0.6691729323308271
+
+
+
+
+[Random Forest]
+
+Accuracy :  0.6
+Precision :  0.6428571428571429
+Recall :  0.9
+TPR :  1.125
+FPR :  0.0
+roc auc value 0.45
+0.7706766917293233
+
+
+
+[ADABoost]
+
+Accuracy :  0.8
+Precision :  0.8181818181818182
+Recall :  0.9
+TPR :  1.125
+FPR :  0.75
+roc auc value 0.75
+training score :  0.6729323308270677
+
+
+
+
+[XGBoost]
+
+Accuracy :  0.7333333333333333
+Precision :  0.8
+Recall :  0.8
+TPR :  1.0
+FPR :  0.75
+roc auc value 0.7000000000000001
+training score :  0.706766917293233
